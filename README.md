@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**rohit-xo21/rohit-xo21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+   <samp><br>
+   Hey there, I'm Rohit!
+   <br>
+   I’m currently learning Next.js, Rust, and Neovim.<br>
+   In the mean time, I'm working on developing Next.js projects and<br> looking to contribute to other open source
+   projects.
+   <br>
+   </samp><br>
+<p align="center"><samp> ~
+   <a href="https://linkedin.com/in/vereoman/" target="_blank">linkedin</a>
+   ·
+   <a href="https://x.com/vereoman" target="_blank">twitter</a>
+   ·
+   <a href="https://gravatar.com/vereoman" target="_blank">website</a>
+   ~ </samp><br><br>
+</p>
+</p>
