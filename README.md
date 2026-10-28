@@ -1,18 +1,24 @@
-<p align="center">
-   <samp><br>
-   Hey there, I'm Rohit!
-   <br>
-   I’m currently learning Next.js, Rust, and Neovim.<br>
-   In the mean time, I'm working on developing Next.js projects and<br> looking to contribute to other open source
-   projects.
-   <br>
-   </samp><br>
-<p align="center"><samp> ~
-   <a href="#" target="_blank">linkedin</a>
-   ·
-   <a href="#" target="_blank">twitter</a>
-   ·
-   <a href="#" target="_blank">website</a>
-   ~ </samp><br><br>
-</p>
-</p>
+
+<div align="center">
+
+# rohithraj
+
+*building things. collecting ideas.*
+
+software · design · experiments
+
+</div>
+
+---
+
+```text
+currently   → learning by building
+interests   → software, design, the internet
+philosophy  → make it work, make it useful
+```
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/rohithrajka/)
+
+</div>
